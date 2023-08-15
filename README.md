@@ -1,4 +1,5 @@
-# equilibrium_point_classification
+# Equilibrium Points Classification
+# Классификация точек равновесия системы диф.уравнений второго порядка
 
 Simple Python script to vizualize behavior of Equilibrium Points in Two-Dimensional Systems of Differential Equations.
 Using numpy, scipy, matplotlib, sympy.
